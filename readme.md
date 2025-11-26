@@ -83,4 +83,13 @@ The dataset includes synthetic follow-up scans with consistent instance labels a
 ##  Citation
 
 If you use this repository, please cite the original authors’ work:
+```bibtex
+@InProceedings{Rokuss_2025_CVPR,
+author = {Rokuss, Maximilian and Kirchhoff, Yannick and Akbal, Seval and Kovacs, Balint and Roy, Saikat and Ulrich, Constantin and Wald, Tassilo and Rotkopf, Lukas T. and Schlemmer, Heinz-Peter and Maier-Hein, Klaus},
+title = {LesionLocator: Zero-Shot Universal Tumor Segmentation and Tracking in 3D Whole-Body Imaging},
+booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+month = {June},
+year = {2025},
+pages = {30872-30885}
+}
 
